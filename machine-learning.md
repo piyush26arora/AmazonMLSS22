@@ -1,4 +1,4 @@
-## Basic Concepts in Machine Learning
+## [Basic Concepts in Machine Learning](https://www.javatpoint.com/basic-concepts-in-machine-learning)
 Machine Learning is continuously growing in the IT world and gaining strength in different business sectors. Although Machine Learning is in the developing phase, it is popular among all technologies. It is a field of study that makes computers capable of automatically learning and improving from experience. Hence, Machine Learning focuses on the strength of computer programs with the help of collecting data from various observations. In this article, ''Concepts in Machine Learning'', we will discuss a few basic concepts used in Machine Learning such as what is Machine Learning, technologies and algorithms used in Machine Learning, Applications and example of Machine Learning, and much more. So, let's start with a quick introduction to machine learning.
 
 ## What is Machine Learning?
