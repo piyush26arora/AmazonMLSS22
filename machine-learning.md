@@ -30,7 +30,7 @@ Example: Let's assume a machine is trained with some set of documents having dif
 ### 3. [Reinforcement Learning](https://www.javatpoint.com/reinforcement-learning)
 Reinforcement Learning is a feedback-based machine learning technique. In such type of learning, agents (computer programs) need to explore the environment, perform actions, and on the basis of their actions, they get rewards as feedback. For each good action, they get a positive reward, and for each bad action, they get a negative reward. The goal of a Reinforcement learning agent is to maximize the positive rewards. Since there is no labeled data, the agent is bound to learn by its experience only.
 
-### 4. Semi-supervised Learning
+### 4. [Semi-supervised Learning](https://www.javatpoint.com/semi-supervised-learning)
 Semi-supervised Learning is an intermediate technique of both supervised and unsupervised learning. It performs actions on datasets having few labels as well as unlabeled data. However, it generally contains unlabeled data. Hence, it also reduces the cost of the machine learning model as labels are costly, but for corporate purposes, it may have few labels. Further, it also increases the accuracy and performance of the machine learning model.
 
 Semi-supervised learning helps data scientists to overcome the drawback of supervised and unsupervised learning. Speech analysis, web content classification, protein sequence classification, text documents classifiers., etc., are some important applications of Semi-supervised learning.
