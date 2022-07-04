@@ -15,19 +15,19 @@ There are three key aspects of Machine Learning, which are as follows:
 # Techniques in Machine Learning
 Machine Learning techniques are divided mainly into the following 4 categories:
 
-### 1. Supervised Learning
+### 1. [Supervised Learning](https://www.javatpoint.com/supervised-machine-learning)
 Supervised learning is applicable when a machine has sample data, i.e., input as well as output data with correct labels. Correct labels are used to check the correctness of the model using some labels and tags. Supervised learning technique helps us to predict future events with the help of past experience and labeled examples. Initially, it analyses the known training dataset, and later it introduces an inferred function that makes predictions about output values. Further, it also predicts errors during this entire learning process and also corrects those errors through algorithms.
 
 Example: Let's assume we have a set of images tagged as ''dog''. A machine learning algorithm is trained with these dog images so it can easily distinguish whether an image is a dog or not.
 
-### 2. Unsupervised Learning
+### 2. [Unsupervised Learning](https://www.javatpoint.com/unsupervised-machine-learning)
 In unsupervised learning, a machine is trained with some input samples or labels only, while output is not known. The training information is neither classified nor labeled; hence, a machine may not always provide correct output compared to supervised learning.
 
 Although Unsupervised learning is less common in practical business settings, it helps in exploring the data and can draw inferences from datasets to describe hidden structures from unlabeled data.
 
 Example: Let's assume a machine is trained with some set of documents having different categories (Type A, B, and C), and we have to organize them into appropriate groups. Because the machine is provided only with input samples or without output, so, it can organize these datasets into type A, type B, and type C categories, but it is not necessary whether it is organized correctly or not.
 
-### 3. Reinforcement Learning
+### 3. [Reinforcement Learning](https://www.javatpoint.com/reinforcement-learning)
 Reinforcement Learning is a feedback-based machine learning technique. In such type of learning, agents (computer programs) need to explore the environment, perform actions, and on the basis of their actions, they get rewards as feedback. For each good action, they get a positive reward, and for each bad action, they get a negative reward. The goal of a Reinforcement learning agent is to maximize the positive rewards. Since there is no labeled data, the agent is bound to learn by its experience only.
 
 ### 4. Semi-supervised Learning
@@ -73,7 +73,7 @@ Machine Learning also helps us to filter various Emails received on our mailbox 
 # Commonly used Machine Learning Algorithms
 Here is a list of a few commonly used Machine Learning Algorithms as follows:
 
-### Linear Regression
+### [Linear Regression](https://www.javatpoint.com/linear-regression-in-machine-learning)
 Linear Regression is one of the simplest and popular machine learning algorithms recommended by a data scientist. It is used for predictive analysis by making predictions for real variables such as experience, salary, cost, etc.
 
 It is a statistical approach that represents the linear relationship between two or more variables, either dependent or independent, hence called Linear Regression. It shows the value of the dependent variable changes with respect to the independent variable, and the slope of this graph is called as Line of Regression.
@@ -108,7 +108,7 @@ Linear Regression is helpful for :
 - evaluating the business trends and forecasts such as prediction of salary of a person based on their experience, 
 - prediction of crop production based on the amount of rainfall, etc.
 
-### Logistic Regression
+### [Logistic Regression](https://www.javatpoint.com/logistic-regression-in-machine-learning)
 Logistic Regression is a subset of the Supervised learning technique. It helps us to predict the output of categorical dependent variables using a given set of independent variables. However, it can be Binary (0 or 1) as well as Boolean (true/false), but instead of giving an exact value, it gives a probabilistic value between o or 1. It is much similar to Linear Regression, depending on its use in the machine learning model. As Linear regression is used for solving regression problems, similarly, Logistic regression is helpful for solving classification problems.
 
 Logistic Regression can be expressed as an 'S-shaped curve called sigmoid functions. It predicts two maximum values (0 or 1).
@@ -121,7 +121,7 @@ Types of Logistic Regression:
 - Multinomial
 - Ordinal
 
-### K Nearest Neighbour (KNN)
+### [K Nearest Neighbour (KNN)](https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning)
 It is also one of the simplest machine learning algorithms that come under supervised learning techniques. It is helpful for solving regression as well as classification problems. It assumes the similarity between the new data and available data and puts the new data into the category that is most similar to the available categories. It is also known as Lazy Learner Algorithms because it does not learn from the training set immediately; instead, it stores the dataset, and at the time of classification, it performs an action on the dataset. Let's suppose we have a few sets of images of cats and dogs and want to identify whether a new image is of a cat or dog. Then KNN algorithm is the best way to identify the cat from available data sets because it works on similarity measures. Hence, the KNN model will compare the new image with available images and put the output in the cat's category.
 
 Let's understand the KNN algorithm with the below screenshot, where we have to assign a new data point based on the similarity with available data points.
@@ -140,10 +140,10 @@ Including Machine Learning, KNN algorithms are used in so many fields as follows
 - Natural Language Processing, etc.
 
 
-### K-Means Clustering
+### [K-Means Clustering](https://www.javatpoint.com/k-means-clustering-algorithm-in-machine-learning)
 K-Means Clustering is a subset of unsupervised learning techniques. It helps us to solve clustering problems by means of grouping the unlabeled datasets into different clusters. Here K defines the number of pre-defined clusters that need to be created in the process, as if K=2, there will be two clusters, and for K=3, there will be three clusters, and so on.
 
-### Decision Tree
+### [Decision Tree](https://www.javatpoint.com/machine-learning-decision-tree-classification-algorithm)
 Decision Tree is also another type of Machine Learning technique that comes under Supervised Learning. Similar to KNN, the decision tree also helps us to solve classification as well as regression problems, but it is mostly preferred to solve classification problems. The name decision tree is because it consists of a tree-structured classifier in which attributes are represented by internal nodes, decision rules are represented by branches, and the outcome of the model is represented by each leaf of a tree. The tree starts from the decision node, also known as the root node, and ends with the leaf node.
 
 ![](https://static.javatpoint.com/tutorial/machine-learning/images/basic-concepts-in-machine-learning4.png)
@@ -152,17 +152,19 @@ Decision nodes help us to make any decision, whereas leaves are used to determin
 
 A Decision Tree is a graphical representation for getting all the possible outcomes to a problem or decision depending on certain given conditions.
 
-### Random Forest
+### [Random Forest](https://www.javatpoint.com/machine-learning-random-forest-algorithm)
 Random Forest is also one of the most preferred machine learning algorithms that come under the Supervised Learning technique. Similar to KNN and Decision Tree, It also allows us to solve classification as well as regression problems, but it is preferred whenever we have a requirement to solve a complex problem and to improve the performance of the model.
+
+![](https://static.javatpoint.com/tutorial/machine-learning/images/random-forest-algorithm.png)
 
 A random forest algorithm is based on the concept of ensemble learning, which is a process of combining multiple classifiers.
 
 Random forest classifier is made from a combination of a number of decision trees as well as various subsets of the given dataset. This combination takes input as an average prediction from all trees and improves the accuracy of the model. The greater number of trees in the forest leads to higher accuracy and prevents the problem of overfitting. Further, It also takes less training time as compared to other algorithms.
 
-### Support Vector Machines (SVM)
+### [Support Vector Machines (SVM)](https://www.javatpoint.com/machine-learning-support-vector-machine-algorithm)
 It is also one of the most popular machine learning algorithms that come as a subset of the Supervised Learning technique in machine learning. The goal of the support vector machine algorithm is to create the best line or decision boundary that can segregate n-dimensional space into classes so that we can easily put the new data point in the correct category in the future. This best decision boundary is called a hyperplane. It is also used to solve classification as well as regression problems. It is used for Face detection, image classification, text categorization, etc.
 
-### Naïve Bayes
+### [Naïve Bayes](https://www.javatpoint.com/machine-learning-naive-bayes-classifier)
 The naïve Bayes algorithm is one of the simplest and most effective machine learning algorithms that come under the supervised learning technique. It is based on the concept of the Bayes Theorem, used to solve classification-related problems. It helps to build fast machine learning models that can make quick predictions with greater accuracy and performance. It is mostly preferred for text classification having high-dimensional training datasets.
 
 It is used as a probabilistic classifier which means it predicts on the basis of the probability of an object. Spam filtration, Sentimental analysis, and classifying articles are some important applications of the Naïve Bayes algorithm.
