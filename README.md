@@ -1,19 +1,20 @@
-# :octocat: AmazonML Summer School 2022 :notebook:
+# 📚 Amazon ML Summer School 2022 
 Repository containing important ML concepts and algorithms, discussed in AMAZON ML SUMMER SCHOOL 2022.
 The eight modules on ML topics that will be covered in <b>Amazon ML Summer School 2022</b> have been listed below:
 
-·         Supervised Learning
+## Topics/Sessions :
+:diamond_shape_with_a_dot_inside:         Supervised Learning
 
-·         Deep Neural Networks
+:diamond_shape_with_a_dot_inside:         Deep Neural Networks (:brain: **Deep Learning**)
 
-·         Dimensionality Reduction
+:diamond_shape_with_a_dot_inside:         Dimensionality Reduction
 
-·         Unsupervised Learning
+:diamond_shape_with_a_dot_inside:         Unsupervised Learning
 
-·         Probabilistic Graphical Models
+:diamond_shape_with_a_dot_inside:         Probabilistic Graphical Models
 
-·         Sequential Learning
+:diamond_shape_with_a_dot_inside:         Sequential Learning
 
-·         Causal Inference
+:diamond_shape_with_a_dot_inside:         Causal Inference
 
-·         Reinforcement Learning
+:diamond_shape_with_a_dot_inside:         Reinforcement Learning
