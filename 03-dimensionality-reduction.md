@@ -1,4 +1,4 @@
-# What is Dimensionality Reduction?
+# [What is Dimensionality Reduction?](https://medium.com/analytics-vidhya/a-complete-guide-on-dimensionality-reduction-62d9698013d2)
 The number of input features, variables, or columns present in a given dataset is known as dimensionality, and the process to reduce these features is called dimensionality reduction.
 
 A dataset contains a huge number of input features in various cases, which makes the predictive modeling task more complicated. Because it is very difficult to visualize or make predictions for the training dataset with a high number of features, for such cases, dimensionality reduction techniques are required to use.
@@ -25,6 +25,8 @@ There are also some disadvantages of applying the dimensionality reduction, whic
 
 - Some data may be lost due to dimensionality reduction.
 - In the PCA dimensionality reduction technique, sometimes the principal components required to consider are unknown.
+
+![](https://miro.medium.com/max/1127/1*LkeFXPinKGIKrRyf7-u17Q.png)
 
 # Dimensionality Reduction Techniques
 ## [- Feature Selection](https://blog.knoldus.com/how-feature-selection-techniques-for-machine-learning-are-important/)
