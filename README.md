@@ -18,3 +18,6 @@ The eight modules on ML topics that will be covered in <b>Amazon ML Summer Schoo
 :diamond_shape_with_a_dot_inside:         Causal Inference
 
 :diamond_shape_with_a_dot_inside:         Reinforcement Learning
+
+
+For more info, you may visit [this link](https://see.stanford.edu/Course/CS229) as well.
