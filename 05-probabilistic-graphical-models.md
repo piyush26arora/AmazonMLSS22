@@ -2,6 +2,6 @@
 
 Probabilistic graphical models are a powerful framework for representing complex domains using probability distributions, with numerous applications in machine learning, computer vision, natural language processing and computational biology. Graphical models bring together graph theory and probability theory, and provide a flexible framework for modeling large collections of random variables with complex interactions.
 
-# [Transformer](https://jalammar.github.io/illustrated-transformer/)
+## [Transformer](https://jalammar.github.io/illustrated-transformer/)
 
-# [BERT and ELMo](https://jalammar.github.io/illustrated-bert/)
+## [BERT and ELMo](https://jalammar.github.io/illustrated-bert/)
