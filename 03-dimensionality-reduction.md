@@ -31,3 +31,4 @@ There are also some disadvantages of applying the dimensionality reduction, whic
 # Dimensionality Reduction Techniques
 ## [- Feature Selection](https://blog.knoldus.com/how-feature-selection-techniques-for-machine-learning-are-important/)
 ## [- Feature Extraction](https://towardsdatascience.com/feature-extraction-techniques-d619b56e31be)
+## [- Principal Component Analysis](https://github.com/krishnaik06/Dimesnsionality-Reduction/blob/master/01-Principal%20Component%20Analysis.ipynb)
